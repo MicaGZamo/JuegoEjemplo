@@ -10,8 +10,12 @@ public class JuegoEjemplo {
         
         
         
+        
         Auto ford = new Auto("rojo", 10,5);
         Escena escena1=new Escena(ford);
+        
+        Auto chevrolet = new Auto("verde",20,3);
+        Escena escena2 = new Escena(chevrolet);
         
                       
         System.out.println("--------- COMIENZA EL JUEGO ---------");
