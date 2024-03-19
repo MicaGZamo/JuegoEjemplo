@@ -17,7 +17,7 @@ public class JuegoEjemplo {
         System.out.println("--------- COMIENZA EL JUEGO ---------");
         escena1.jugar();
       
-      
+        System.out.println("bye");
        
         
         
