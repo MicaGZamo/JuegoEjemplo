@@ -97,7 +97,7 @@ public class Auto {
            
         }else {
         
-             JOptionPane.showMessageDialog(null, "no se puede mover");
+             JOptionPane.showMessageDialog(null, "no se puede mover. Mica estuvo aquí");
             
         }
     }
